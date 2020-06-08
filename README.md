@@ -1,2 +1,1 @@
-# nuxt_test2
-Created with CodeSandbox
+# Nuxt with named views
